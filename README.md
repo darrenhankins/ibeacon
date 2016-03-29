@@ -1,2 +1,2 @@
 # ibeacon
-Basic tutorial utilizing iBeacon techology
+Basic tutorial utilizing iBeacon technology
